@@ -23,13 +23,13 @@ repository               : "mnorris12/mnorris12.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "W. Marqualand Norris"
+  pronouns         : # example: "he/him"  
+  bio              : "Undergraduate Researcher"
+  location         : "Philadelphia, Pennsylvania"
+  employer         : "Swarthmore College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mnorris1@swarthmore.edu" 
 
   # Academic websites
   academia         : # URL
