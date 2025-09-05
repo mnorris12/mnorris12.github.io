@@ -28,6 +28,7 @@ author:
   bio              : "Undergraduate Researcher"
   location         : "Philadelphia, PA"
   employer         : "Swarthmore College"
+  uri              : # URL
   email            : "mnorris1@swarthmore.edu" 
 
   # Academic websites
