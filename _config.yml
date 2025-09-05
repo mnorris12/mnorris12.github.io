@@ -22,9 +22,9 @@ repository               : "mnorris12/mnorris12.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "W. Marqualand Norris"
-  pronouns         : # example: "he/him"  
+  pronouns         : # "he/him/his"  
   bio              : "Undergraduate Researcher"
   location         : "Philadelphia, PA"
   email            : "mnorris1@swarthmore.edu" 
