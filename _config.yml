@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "L. Clifton Johnson, Astronomer"
+title                    : "W. Norris Marqualand, Undergraduate Researcher"
 title_separator          : "-"
-name                     : &name "L. Clifton Johnson"
-description              : &description "Research Assistant Professor and Zooniverse Director"
+name                     : &name "W. Norris Marqualand"
+description              : &description "Undergraduate Astrophyics Researcher"
 url                      : https://mnorris12.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mnorris12/mnorris12.github.io"
@@ -23,13 +23,13 @@ repository               : "mnorris12/mnorris12.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "L. Clifton Johnson"
+  name             : "W. Norris Marqualand"
   pronouns         : # "he/him"  
-  bio              : "Research Assistant Professor"
-  location         : "Chicago, IL"
-  employer         : "Northwestern University"
+  bio              : "Undergraduate Researcher"
+  location         : "Philadelphia, PA"
+  employer         : "Swarthmore College"
   uri              : # URL
-  email            : "lcj@northwestern.edu" 
+  email            : "mnorris1@swarthmore.edu" 
 
   # Academic websites
   academia         : # URL
