@@ -34,6 +34,7 @@ $$
     \lambda_{\text{MRI}}  \approx 2\pi \frac{\vert v_{A} \vert}{\vert       \Omega_{\text{rot}} \vert}
 \end{gather}
 $$
+
 where $v_{A}$, the Alfvén speed, is proportional to the square of the magnetic field. (McKinney et al. 2012) The fluid orbital frequency, $\Omega_{rot}$, is one of the principal parameters that capture many of the important features of the MRI without extended calculations. Thus, $\lambda_{\text{MRI}}$ is given by the speed at which the gas drags magnetic field lines as a fraction of the gas’s orbital period. We also understand $\lambda_{\text{MRI}}$ as the wavelength of the MRI's fastest growing pattern of disturbance. See Figure 1 for an illustrative understanding of the geometry.
 
 ![[Introduction_illustration]]
