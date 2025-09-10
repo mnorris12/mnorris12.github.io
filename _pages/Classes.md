@@ -4,6 +4,8 @@ title: "Classes"
 author_profile: true
 ---
 
+Download my Undergraduate class plan: [PDF]({{ base_path }}/images/Swarthmore Class Plan.pdf)
+
 <iframe
   id="inlineFrameExample"
   title="Inline Frame Example"
