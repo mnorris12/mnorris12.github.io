@@ -4,4 +4,10 @@ title: "Classes"
 author_profile: true
 ---
 
-I like chicken noodle soup.
+<iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="700"
+  height="1000"
+  src="https://docs.google.com/spreadsheets/d/1rUCzptIDeyfpRAdpCc4jWk4gJPBGiyUNMb3TT5CD80A/edit?usp=sharing">
+</iframe>
