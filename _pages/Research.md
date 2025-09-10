@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-\title{Investigating the Magnetic Flux in magnetically saturated uncooled thin accretion disks of Supermassive Black Holes}
+Investigating the Magnetic Flux in magnetically saturated uncooled thin accretion disks of Supermassive Black Holes
 
 
 Marqualand Norris
