@@ -38,7 +38,7 @@ $$
 where $$v_{A}$$, the Alfvén speed, is proportional to the square of the magnetic field. (McKinney et al. 2012) The fluid orbital frequency, $$\Omega_{rot}$$, is one of the principal parameters that capture many of the important features of the MRI without extended calculations. Thus, $$\lambda_{\text{MRI}}$$ is given by the speed at which the gas drags magnetic field lines as a fraction of the gas’s orbital period. We also understand $$\lambda_{\text{MRI}}$$ as the wavelength of the MRI's fastest growing pattern of disturbance. See Figure 1 for an illustrative understanding of the geometry.
 
 <p align="center">
-  <img src="{{ base_path }}/images/Observation_illustration.svg" alt="Observation illustration" width="80%">
+  <img src="{{ base_path }}/images/Introduction_illustration.svg" alt="Observation illustration" width="80%">
 </p>
 
 *A visualization adapted from (Jafari 2019) of the geometry of accretion. The black hole is represented in the center with a nearly maximal dimensionless spin $$a=.94$$. It is surrounded by a cylinder with vertical height $$H$$, representing the scale of the accretion disk. The red line on the left represents the initially vertical magnetic field line, and the three on the right visualize how it bends in time with yellow representing the latest. The green line shows the bending length scale of the magnetic fields, $$\lambda_{\text{MRI}}$$.*
@@ -55,14 +55,18 @@ The accretion disk of these AGN is composed of highly magnetized and energetic p
 
 The duration of the simulation is measured in units $$t_{g}=\frac{r_{g}}{c}$$ and ranges from $$0t_{g}\le t \le 12.6 \times10^{5} t_{g}$$. At the start of the simulation, we create a cavity out to the Bondi radius so as to avoid unwanted conditions that affect the evolution of the simulation. Figure 2 shows two contour plots of gas density at time $$t=0 \hspace{.1cm} \frac{r_{g}}{c}$$ for visualization. 
 
-![Observation_illustration]({{ base_path }}/images/Observation_illustration.svg)
+<p align="center">
+  <img src="{{ base_path }}/images/Observation_illustration.svg" alt="Observation illustration" width="80%">
+</p>
 
 *Countour plots of gas density as a measure of the $$x / R_g$$ and $$z/ R_g$$ coordinates. The top left and right plots show the measure at initial time $$t=0 \hspace{.1cm}t_g$$ $$r_{g}$$ at different length scales. The upper right plot includes two purple circles representing vector notation, indicating the direction of gas flow. Similarly, the two bottom plots are simulations of  $$t=300007 \hspace{.1cm}t_g$$ $$r_{g}$$ when the MAD state occurs in the simulation*
 ## Analysis / Discussion
 
 We now discuss the results of the dimensionless parameters $$\lambda_{\text{MRI}}/R$$, $$H/R$$, and $$\lambda_{\text{MRI}}/H$$, that describe the physical nature of bending in the magnetic field lines, and thus provide an understanding of the conditions for when the magnetic flux in the accretion disk is at a maximum.  Figure 3 shows the results of the three time-averaged parameters. 
 
-![[Results_illustration]]({{ base_path }}/images/Results_illustration.svg)
+<p align="center">
+  <img src="{{ base_path }}/images/Results_illustration.svg" alt="Observation illustration" width="80%">
+</p>
 
 *Time-averaged measures of $$\lambda_{\text{MRI}}/ R$$, , $$\lambda_{\text{MRI}}/ H$$.*
 
