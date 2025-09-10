@@ -1,4 +1,4 @@
- ---
+---
 permalink: /classes/
 title: "Classes”
 author_profile: true
