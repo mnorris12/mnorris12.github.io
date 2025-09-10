@@ -37,7 +37,7 @@ $$
 
 where $v_{A}$, the Alfvén speed, is proportional to the square of the magnetic field. (McKinney et al. 2012) The fluid orbital frequency, $\Omega_{rot}$, is one of the principal parameters that capture many of the important features of the MRI without extended calculations. Thus, $\lambda_{\text{MRI}}$ is given by the speed at which the gas drags magnetic field lines as a fraction of the gas’s orbital period. We also understand $\lambda_{\text{MRI}}$ as the wavelength of the MRI's fastest growing pattern of disturbance. See Figure 1 for an illustrative understanding of the geometry.
 
-![[Introduction_illustration]]
+![Introduction_illustration]({{ base_path }}/images/Introduction_illustration.png)
 
 *A visualization adapted from (Jafari 2019) of the geometry of accretion. The black hole is represented in the center with a nearly maximal dimensionless spin $a=.94$. It is surrounded by a cylinder with vertical height $H$, representing the scale of the accretion disk. The red line on the left represents the initially vertical magnetic field line, and the three on the right visualize how it bends in time with yellow representing the latest. The green line shows the bending length scale of the magnetic fields, $\lambda_{\text{MRI}}$.*
 
