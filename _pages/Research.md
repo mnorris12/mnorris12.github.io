@@ -84,5 +84,12 @@ The bending and receptivity to bending of magnetic field lines in the accretion 
 
 I would like to acknowledge Northwestern University’s Center for Interdisciplinary Exploration and Research in Astrophysics Program as well as the National Science Foundation for their generous funding. In particular, thank you to Dr. Cliff Johnson, Director, and Dr. Megan Newsome, Co-Director, for their guidance. 
 
+## Poster
+
+CIERA 2025 poster: Investigating Maximal Magnetic Flux of Super Massive Black Hole Accretion Disks in the MAD Regime
+
+<p align="center">
+  <img src="{{ base_path }}/images/CIERA_poster.pdf" alt="Observation illustration" width="80%">
+</p>
 
 
