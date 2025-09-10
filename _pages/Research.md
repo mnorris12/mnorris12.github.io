@@ -84,6 +84,28 @@ The bending and receptivity to bending of magnetic field lines in the accretion 
 
 I would like to acknowledge Northwestern University’s Center for Interdisciplinary Exploration and Research in Astrophysics Program as well as the National Science Foundation for their generous funding. In particular, thank you to Dr. Cliff Johnson, Director, and Dr. Megan Newsome, Co-Director, for their guidance. 
 
+## References
+
+Gammie, C. F., McKinney, J. C., & Toth, G. 2003, Astrophysical Journal, 589, 444–457
+
+Noble, S. C., Gammie, C. F., McKinney, J. C., & Del Zanna, L. 2006, Astrophysical Journal, 641, 626–637
+
+McKinney, J. C., Tchekhovskoy, A., & Blandford, R. D. 2012, Monthly Notices of the Royal Astronomical Society, 423, 3083–3117
+
+Lowell, B., Jacquemin-Ide, J., Tchekhovskoy, A., & Duncan, A. 2024, Astrophysical Journal, 960, 82
+
+Nouri, F. H., & Janiuk, A. 2024, Astronomy & Astrophysics, 687, A184
+
+Jafari, A. 2019, arXiv preprint, arXiv:1904.09677
+Magnetic Fields in Accretion Disks: A Review
+
+Tchekhovskoy, A. 2015, in Astrophysics and Space Science Library, Vol. 414, The Formation and Disruption of Black Hole Jets (Berlin, Heidelberg: Springer), 45–82
+
+Carroll, B. W., & Ostlie, D. A. 2017, An Introduction to Modern Astrophysics, 2nd edn. (Cambridge: Cambridge University Press)
+
+Lalakos, A., Tchekhovskoy, A., Most, E. R., Ripperda, B., Chatterjee, K., & Liska, M. 2025, arXiv preprint, arXiv:2505.23888
+Universal Radial Scaling of Large-Scale Black Hole Accretion for Magnetically Arrested And Rocking Accretion Disks
+
 ## Poster
 
 CIERA 2025 poster: Investigating Maximal Magnetic Flux of Super Massive Black Hole Accretion Disks in the MAD Regime
