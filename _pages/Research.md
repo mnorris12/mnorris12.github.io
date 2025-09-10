@@ -53,14 +53,14 @@ The accretion disk of these AGN is composed of highly magnetized and energetic p
 
 The duration of the simulation is measured in units $t_{g}=\frac{r_{g}}{c}$ and ranges from $0t_{g}\le t \le 12.6 \times10^{5} t_{g}$. At the start of the simulation, we create a cavity out to the Bondi radius so as to avoid unwanted conditions that affect the evolution of the simulation. Figure 2 shows two contour plots of gas density at time $t=0 \hspace{.1cm} \frac{r_{g}}{c}$ for visualization. 
 
-![[Observation_illustration]]
+![Observation_illustration]({{ base_path }}/images/Observation_illustration.png)
 
 *Countour plots of gas density as a measure of the $x / R_g$ and $z/ R_g$ coordinates. The top left and right plots show the measure at initial time $t=0 \hspace{.1cm}t_g$ $r_{g}$ at different length scales. The upper right plot includes two purple circles representing vector notation, indicating the direction of gas flow. Similarly, the two bottom plots are simulations of  $t=300007 \hspace{.1cm}t_g$ $r_{g}$ when the MAD state occurs in the simulation*
 ## Analysis / Discussion
 
 We now discuss the results of the dimensionless parameters $\lambda_{\text{MRI}}/R$, $H/R$, and $\lambda_{\text{MRI}}/H$, that describe the physical nature of bending in the magnetic field lines, and thus provide an understanding of the conditions for when the magnetic flux in the accretion disk is at a maximum.  Figure 3 shows the results of the three time-averaged parameters. 
 
-![[Results_illustration]]
+![[Results_illustration]]({{ base_path }}/images/Results_illustration.png)
 
 *Time-averaged measures of $\lambda_{\text{MRI}}/ R$, , $\lambda_{\text{MRI}}/ H$.*
 
