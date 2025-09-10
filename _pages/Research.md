@@ -89,7 +89,8 @@ I would like to acknowledge Northwestern University’s Center for Interdiscipli
 CIERA 2025 poster: Investigating Maximal Magnetic Flux of Super Massive Black Hole Accretion Disks in the MAD Regime
 
 <p align="center">
-  <img src="{{ base_path }}/images/CIERA_poster.pdf" alt="Observation illustration" width="80%">
+  <img src="{{ base_path }}/images/CIERA_poster.pdf" alt="CIERA Poster" width="80%">
 </p>
 
+Download: [PDF]({{ base_path }}/images/CIERA_poster.pdf)
 
